@@ -1,0 +1,3 @@
+[run]
+source = pyromaniac
+omit = pyromaniac/test*
